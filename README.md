@@ -1,5 +1,5 @@
 - 👋@markozupanic
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning python at AICL.
 - 📫 marko.zupanic8@gmail.com
 
 <!---
